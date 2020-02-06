@@ -1,0 +1,20 @@
+.fa-facebook:hover{
+    color:#c5762d;
+    cursor: pointer;
+}
+.fa-twitter:hover{
+    color:rgb(163, 161, 42);
+    cursor: pointer;
+}
+.fa-google-plus:hover{
+    color:rgb(62, 180, 115);
+    cursor: pointer;
+}
+.fa-snapchat:hover{
+    color:rgb(175, 54, 149);
+    cursor: pointer;
+}
+.fa-youtube:hover{
+    color:rgb(10, 102, 145);
+    cursor: pointer;
+}
